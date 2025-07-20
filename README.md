@@ -9,6 +9,7 @@ car-price-prediction/
 │
 ├── model.pkl               # Trained Random Forest model
 ├── app.py                  # Flask backend app
+├── train_model.py          # Script to train and save the model
 ├── templates/
 │   └── index.html          # Main HTML form page
 ├── static/
